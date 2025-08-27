@@ -6,7 +6,10 @@
       "description": "Reusable rockets (Falcon, Starship) and global satellite internet (Starlink).",
       "amountRaised": 9500000000,
       "sectorId": 1,
-      "contact": "contact@spacex.com"
+      "contact": "contact@spacex.com",
+      "firstImage": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NXx8fGVufDB8fHx8fA%3D%3D",
+      "secondImage": "https://www.francebleu.fr/pikapi/images/1d6ba1c9-414f-47b8-8c71-51c671380bda/1200x680?webp=false",
+      "thirdImage": "https://www.usine-digitale.fr/mediatheque/4/3/5/000887534_1200x800_c.jpg"
     },
     {
       "id": 2,
@@ -14,7 +17,11 @@
       "description": "Online payments platform powering global internet businesses.",
       "amountRaised": 6500000000,
       "sectorId": 2,
-      "contact": "support@stripe.com"
+      "contact": "support@stripe.com",
+      "likes": 28,
+      "firstImage": "https://stripe.com/img/v3/home/social.png",
+      "secondImage": "https://directpaynet.com/wp-content/uploads/2023/10/Depositphotos_691399764_s-2019.jpg",
+      "thirdImage": "https://logo-marque.com/wp-content/uploads/2021/03/Stripe-Embleme.jpg"
     },
     {
       "id": 3,
@@ -22,7 +29,10 @@
       "description": "AI research and deployment company ensuring AGI benefits all of humanity.",
       "amountRaised": 11000000000,
       "sectorId": 3,
-      "contact": "info@openai.com"
+      "contact": "info@openai.com",
+      "firstImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdcgkdcDy5z4PYGx_kDJB1AvvC_x1pCBbbQ&s",
+      "secondImage": "https://static01.nyt.com/images/2024/10/02/business/00openai-deal-hfo/00openai-deal-hfo-videoSixteenByNine3000-v2.jpg",
+      "thirdImage": "https://etudestech.com/wp-content/uploads/2023/02/open-ai-chat-gpt-1536x1025.jpeg"
     },
     {
       "id": 4,
@@ -30,7 +40,10 @@
       "description": "Global marketplace to list, discover, and book accommodations.",
       "amountRaised": 6000000000,
       "sectorId": 4,
-      "contact": "press@airbnb.com"
+      "contact": "press@airbnb.com",
+      "firstImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_Bélo.svg/2560px-Airbnb_Logo_Bélo.svg.png",
+      "secondImage": "https://yourhosthelper.com/wp-content/uploads/2020/08/etude-succes-airbnb.jpg",
+      "thirdImage": "https://www.etourisme.info/wp-content/uploads/2014/07/airbnb_logo.gif"
     },
     {
       "id": 5,
@@ -38,7 +51,10 @@
       "description": "Electric vehicles and clean energy company accelerating sustainable energy.",
       "amountRaised": 20000000000,
       "sectorId": 5,
-      "contact": "contact@tesla.com"
+      "contact": "contact@tesla.com",
+      "firstImage": "https://www.discoverthegreentech.com/wp-content/uploads/2021/05/Tesla-symbol.jpg",
+      "secondImage": "https://electrek.co/wp-content/uploads/sites/3/2021/05/Tesla-Logo-Hero.jpg?quality=82&strip=all&w=1024",
+      "thirdImage": "https://www.leaseplan.com/-/media/leaseplan-digital/int/business/images/car-spotlight-pages/tesla/cybertruck/cybertruck_off-road.jpg?iar=0&rev=-1&mw=1600&io=transform:fill,width:1600"
     },
     {
       "id": 6,
@@ -46,7 +62,10 @@
       "description": "Big data analytics company supporting government, security, and enterprise.",
       "amountRaised": 2800000000,
       "sectorId": 6,
-      "contact": "info@palantir.com"
+      "contact": "info@palantir.com",
+      "firstImage": "https://mms.businesswire.com/media/20250219616604/fr/1872898/22/Palantir_Logo.jpg",
+      "secondImage": "https://itdaily.fr/wp-content/uploads/2025/08/Palantir.jpg",
+      "thirdImage": "https://ca-times.brightspotcdn.com/dims4/default/eab7e99/2147483647/strip/true/crop/2048x1365+0+0/resize/1200x800!/quality/75/?url=https://california-times-brightspot.s3.amazonaws.com/38/59/caf87a47fb7bdaa89c1cb4ef6777/la-1519334783-uxdqksl215-snap-image"
     },
     {
       "id": 7,
@@ -54,7 +73,10 @@
       "description": "Commission-free investing and trading platform.",
       "amountRaised": 5600000000,
       "sectorId": 2,
-      "contact": "support@robinhood.com"
+      "contact": "support@robinhood.com",
+      "firstImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/77eef93c-830f-4c57-8b0f-22f2dab84072/80c4df4a-a3ca-4bc3-90a3-06279bfbb542/1280x720/match/image.jpg",
+      "secondImage": "https://letemps-17455.kxcdn.com/photos/cc825785-903b-45e4-a8bd-6ceaaa234c68/small",
+      "thirdImage": "https://www.advisorhub.com/wp-content/uploads/2024/10/Robinhood.jpg"
     },
     {
       "id": 8,
@@ -62,7 +84,10 @@
       "description": "Tech company behind TikTok, focused on AI-powered content platforms.",
       "amountRaised": 10000000000,
       "sectorId": 7,
-      "contact": "contact@bytedance.com"
+      "contact": "contact@bytedance.com",
+      "firstImage": "https://f.hellowork.com/blogdumoderateur/2019/07/ByteDance-1.jpg",
+      "secondImage": "https://upload.wikimedia.org/wikipedia/commons/8/80/ByteDance_1733_Commercial_Space_(20240731145554).jpg",
+      "thirdImage": "https://www.solutions-numeriques.com/wp-content/uploads/2020/08/tiktok.png"
     },
     {
       "id": 9,
@@ -70,7 +95,10 @@
       "description": "GPU leader powering gaming, AI, and high-performance computing.",
       "amountRaised": 3000000000,
       "sectorId": 8,
-      "contact": "info@nvidia.com"
+      "contact": "info@nvidia.com",
+      "firstImage": "https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/nvidia-og-image-white-bg-1200x630.jpg",
+      "secondImage": "https://itsocial.fr/wp-content/uploads/2024/11/Nvidia-datacenter-AI.webp",
+      "thirdImage": "https://www.netpublic.fr/wp-content/uploads/2024/07/nvidia.jpg"
     },
     {
       "id": 10,
@@ -78,7 +106,10 @@
       "description": "Cloud storage and team collaboration platform.",
       "amountRaised": 1700000000,
       "sectorId": 9,
-      "contact": "support@dropbox.com"
+      "contact": "support@dropbox.com",
+      "firstImage": "https://cdn.prod.website-files.com/607fedaba3f112631aa7b7ff/615704c7e6eba546183eb82d_dropbox-logo@2x.jpeg",
+      "secondImage": "https://upload.wikimedia.org/wikipedia/commons/2/29/Dropbox_(7463062672).jpg",
+      "thirdImage": "https://media.lesechos.com/api/v1/images/view/5e5647988fe56f3fe50b0a58/1280x720/11416-1521736241-shutterstock-252160438.jpg"
     },
     {
       "id": 11,
@@ -86,7 +117,10 @@
       "description": "Global audio streaming service for music and podcasts.",
       "amountRaised": 2200000000,
       "sectorId": 10,
-      "contact": "press@spotify.com"
+      "contact": "press@spotify.com",
+      "firstImage": "https://cdn.prod.website-files.com/673e0b4c8f227e2e6510e730/68aedba154fc590cf60bfc74_Spotify-1.jpg",
+      "secondImage": "https://www.datocms-assets.com/57355/1714382982-spotify-business.webp",
+      "thirdImage": "https://open.spotifycdn.com/cdn/images/download-page-image-mac.fec937cc.png"
     },
     {
       "id": 12,
@@ -94,7 +128,10 @@
       "description": "On-demand grocery delivery connecting customers and retailers.",
       "amountRaised": 2700000000,
       "sectorId": 11,
-      "contact": "support@instacart.com"
+      "contact": "support@instacart.com",
+      "firstImage": "https://www.instacart.com/company/wp-content/uploads/2022/03/03-Instacart-Logo-Kale-1.jpg",
+      "secondImage": "https://play-lh.googleusercontent.com/nAV-0AdjTV8n6Cnt-knK4WCtZYFbvVLuae6Bd_9d_UOJOwdSs5hEaja3wU0Gq5rQ4T4",
+      "thirdImage": "https://business.rice.edu/sites/default/files/styles/16_9_1600x900/public/wp-content/uploads/2017/07/instacart.jpg?h=4f8d1171&itok=GqtUJTYW"
     },
     {
       "id": 13,
@@ -102,7 +139,10 @@
       "description": "Small satellite launch services with Electron rocket.",
       "amountRaised": 1200000000,
       "sectorId": 1,
-      "contact": "info@rocketlabusa.com"
+      "contact": "info@rocketlabusa.com",
+      "firstImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rocket_Lab_logo.svg/1200px-Rocket_Lab_logo.svg.png",
+      "secondImage": "https://upload.wikimedia.org/wikipedia/commons/e/e9/TROPICS_Rocket_Launch_(KSC-20230507-PH-RLS01_0002-reupload)_(cropped).jpg",
+      "thirdImage": "https://www.rca.on.ca/wp-content/gallery/rocket-lab/cache/Rocket-Lab-1.jpg-nggid03344-ngg0dyn-1800x1200-00f0w010c010r110f110r010t010.jpg"
     },
     {
       "id": 14,
@@ -110,7 +150,10 @@
       "description": "3D-printed rockets for faster and cheaper space access.",
       "amountRaised": 1500000000,
       "sectorId": 1,
-      "contact": "hello@relativityspace.com"
+      "contact": "hello@relativityspace.com",
+      "firstImage": "https://image.cnbcfm.com/api/v1/image/106734073-1602081721357-RELATIVITY_SPACE_TEMPLAR.jpg?v=1602169887&w=1920&h=1080",
+      "secondImage": "https://techcrunch.com/wp-content/uploads/2020/01/relativity-space-stargate.jpeg",
+      "thirdImage": "https://images.squarespace-cdn.com/content/v1/59a8fb50d2b8575fad311abb/9e32afce-eef2-4da3-9d17-a58a42993de3/TERRAN_R_LAUNCH_UPDATE_2_CROPPED.png"
     },
     {
       "id": 15,
@@ -118,7 +161,10 @@
       "description": "Satellite imaging company mapping Earth daily.",
       "amountRaised": 450000000,
       "sectorId": 1,
-      "contact": "contact@planet.com"
+      "contact": "contact@planet.com",
+      "firstImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Planet_Labs_logo.svg/1200px-Planet_Labs_logo.svg.png",
+      "secondImage": "https://cdn.sanity.io/images/hvd5n54p/blog/fa0038b98dc48721083d1d0f64b7c97b05768166-1600x900.jpg?w=2048&q=75&fit=clip&auto=format",
+      "thirdImage": "https://cdn.sanity.io/images/hvd5n54p/production/1163f75bd77678a1f01cb3f68a56a718c08835e0-1920x1079.jpg?auto=format"
     },
     {
       "id": 16,
@@ -126,7 +172,10 @@
       "description": "Global financial super-app for payments and banking.",
       "amountRaised": 2000000000,
       "sectorId": 2,
-      "contact": "press@revolut.com"
+      "contact": "press@revolut.com",
+      "firstImage": "https://www.francetransactions.com/IMG/arton90567.jpg",
+      "secondImage": "https://play-lh.googleusercontent.com/bo7Qeq8XZVI4hyXTVyG7Oi3hMiqADqruYeyQWqzzJzNHCYNVLmpAne0XP4_JH2AJ1tE",
+      "thirdImage": "https://www.capitaine-banque.com/wp-content/uploads/2022/05/revolut-cartes.webp"
     },
     {
       "id": 17,
@@ -134,7 +183,10 @@
       "description": "International money transfers with low fees.",
       "amountRaised": 1100000000,
       "sectorId": 2,
-      "contact": "support@wise.com"
+      "contact": "support@wise.com",
+      "firstImage": "https://d21buns5ku92am.cloudfront.net/69650/images/470491-470347-01-Wise-logo-bright-green%20(1)-210bf3-large-1677594902-b85c1e-large-1677659083.png",
+      "secondImage": "https://exiap-uk-uploads.s3.eu-west-2.amazonaws.com/wise_card_with_bridge_in_background_2ae4b51af4.jpeg",
+      "thirdImage": "https://d21buns5ku92am.cloudfront.net/69650/images/470354-12-Wise-rebrand-overview-46b16d-large-1677596264.png"
     },
     {
       "id": 18,
@@ -142,7 +194,10 @@
       "description": "Buy Now Pay Later payments for online shopping.",
       "amountRaised": 3900000000,
       "sectorId": 2,
-      "contact": "press@klarna.com"
+      "contact": "press@klarna.com",
+      "firstImage": "https://play-lh.googleusercontent.com/lvxrgZv2g6IqgCAcxKgq3sYo5ixVX2SIZ6PzIiRv4gyT6w6qSniFS_vxjpREGDpl2iE",
+      "secondImage": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/938/1233938.jpg",
+      "thirdImage": "https://www.klarna.com/press-media/images/1405/download_url-CreatorsPlatformExpansion_UK_Search1_3x2%20(1).jpg"
     },
     {
       "id": 19,
@@ -150,7 +205,10 @@
       "description": "Cryptocurrency exchange and wallet platform.",
       "amountRaised": 540000000,
       "sectorId": 2,
-      "contact": "contact@coinbase.com"
+      "contact": "contact@coinbase.com",
+      "firstImage": "https://walloftraders.com/blog/wp-content/uploads/2023/02/Coinbase.png",
+      "secondImage": "https://images.ctfassets.net/ss5kfr270og3/5D1NVpzSsVtOxMOvgWHhjd/bc08c498c91ef57e2b784075713ce892/Coinbase.png",
+      "thirdImage": "https://www.spendways.com/wp-content/uploads/2021/03/coinbase.png"
     },
     {
       "id": 20,
@@ -158,7 +216,10 @@
       "description": "AI safety-focused company building reliable large language models.",
       "amountRaised": 8000000000,
       "sectorId": 3,
-      "contact": "info@anthropic.com"
+      "contact": "info@anthropic.com",
+      "firstImage": "https://app.actuia.com/storage/uploads/2022/05/Anthropic-societe-securite-recherche-IA-levee-fonds-580-millions-dollars-serie-B-696x385.png",
+      "secondImage": "https://www.strategies.fr/sites/default/files/styles/article_banner/public/media/images/swyp/LQ4659663C/AnthropicClaude.jpeg?itok=FbDshTxN&m=1747986472",
+      "thirdImage": "https://images.yourstory.com/cs/2/a0bc5020250711f09884fb7189395d75/ArtificialintelligencetoEnhanceLanguageSkillsPresentationinBlueandPurple3DModernStyle-2-1746687837205.png"
     },
     {
       "id": 21,
@@ -166,7 +227,10 @@
       "description": "Enterprise-focused NLP models and AI tools.",
       "amountRaised": 445000000,
       "sectorId": 3,
-      "contact": "hello@cohere.com"
+      "contact": "hello@cohere.com",
+      "firstImage": "https://entrepreneurs.utoronto.ca/wp-content/uploads/2021/09/Cohere-Logo.png",
+      "secondImage": "https://salesforceventures.com/wp-content/uploads/2023/06/Cohere-2.png",
+      "thirdImage": "https://avatars.githubusercontent.com/u/54850923?s=280&v=4"
     },
     {
       "id": 22,
@@ -174,7 +238,10 @@
       "description": "AI research lab known for AlphaFold and reinforcement learning advances.",
       "amountRaised": 650000000,
       "sectorId": 3,
-      "contact": "press@deepmind.com"
+      "contact": "press@deepmind.com",
+      "firstImage": "https://www.usine-digitale.fr/mediatheque/5/0/9/000793905_896x598_c.jpg",
+      "secondImage": "https://img.lemde.fr/2017/05/25/500/0/3000/1498/1440/720/60/0/20823f1_5306651-01-06.jpg",
+      "thirdImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTz5pC2pieDELQEOAFluUAoS8U9QTXgl3YZg&s"
     },
     {
       "id": 23,
@@ -182,7 +249,10 @@
       "description": "Open-source machine learning models and community hub.",
       "amountRaised": 395000000,
       "sectorId": 3,
-      "contact": "contact@huggingface.co"
+      "contact": "contact@huggingface.co",
+      "firstImage": "https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde",
+      "secondImage": "https://www.usine-digitale.fr/mediatheque/2/1/3/001473312_896x598_c.png",
+      "thirdImage": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/hugging-face-pollen-robotics-acquisition/simon-remi.jpg"
     },
     {
       "id": 24,
@@ -190,7 +260,10 @@
       "description": "Mobile-first travel booking with predictive pricing.",
       "amountRaised": 800000000,
       "sectorId": 4,
-      "contact": "press@hopper.com"
+      "contact": "press@hopper.com",
+      "firstImage": "https://www.oag.com/hubfs/Hopper%20Pink.svg",
+      "secondImage": "https://d3.harvard.edu/platform-digit/wp-content/uploads/sites/2/2019/12/Hopper-Banner-1-512x200.jpg",
+      "thirdImage": "https://thebrandhopper.com/wp-content/uploads/2023/08/hopper-app-business-model.jpg"
     },
     {
       "id": 25,
@@ -198,7 +271,10 @@
       "description": "Long-distance ridesharing and bus booking platform.",
       "amountRaised": 600000000,
       "sectorId": 4,
-      "contact": "press@blablacar.com"
+      "contact": "press@blablacar.com",
+      "firstImage": "https://i0.wp.com/blog.blablacar.fr/wp-content/uploads/2018/01/New-BlaBlaCar-logo-e1725142195343.png?fit=1200,800&ssl=1",
+      "secondImage": "https://www.tictactrip.eu/assets/company/company-history-blablacar.jpg",
+      "thirdImage": "https://upload.wikimedia.org/wikipedia/commons/1/1a/BlaBlaBus_(Barcelona)_in_2021.04.jpg"
     },
     {
       "id": 26,
@@ -206,7 +282,10 @@
       "description": "Marketplace for activities, tours, and experiences.",
       "amountRaised": 1000000000,
       "sectorId": 4,
-      "contact": "media@getyourguide.com"
+      "contact": "media@getyourguide.com",
+      "firstImage": "https://yt3.googleusercontent.com/EaWjvAgW6eEVbMiu8NwieqJ2asswKf0Dj_AnP07O5OZhL3vCadSAbMdyJfAC5Wr66Dm0XYlBKA=s900-c-k-c0x00ffffff-no-rj",
+      "secondImage": "https://images.ctfassets.net/mivicpf5zews/6J2oBNQhUYUgOCIj7JXw0E/e4d36e3810af639113db63806a9e04f7/GetYourGuide_Paris__France.jpg?q=75",
+      "thirdImage": "https://play-lh.googleusercontent.com/QMg0LWwb9Ki67eLcIcFpZxvCvBrW0aefn6BmXBJq3zj1G5Z_LYxcPdGKs_WWx8R5Gw"
     },
     {
       "id": 27,
@@ -214,7 +293,10 @@
       "description": "Online booking platform for hotels and travel services.",
       "amountRaised": 900000000,
       "sectorId": 4,
-      "contact": "press@booking.com"
+      "contact": "press@booking.com",
+      "firstImage": "https://cdn.worldvectorlogo.com/logos/bookingcom-1.svg",
+      "secondImage": "https://cf.bstatic.com/static/img/bcom_logo_blue_bg/f12f834e849b2a7f752a14b2598a6ddfeda1e713.svg",
+      "thirdImage": "https://cdn.prod.website-files.com/67e6889f45deb979d7d4374e/67e6889f45deb979d7d43d79_608737766124d06222cb7f28_Booking.jpeg"
     },
     {
       "id": 28,
@@ -222,7 +304,10 @@
       "description": "Electric pickup trucks and SUVs.",
       "amountRaised": 10500000000,
       "sectorId": 5,
-      "contact": "media@rivian.com"
+      "contact": "media@rivian.com",
+      "firstImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/05/0/0/1rivian-5.17.22.jpg?ve=1&tl=1",
+      "secondImage": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/201811/MIT-Rivian_0.jpg?itok=l2Z_lZ7V",
+      "thirdImage": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rivian_company_logo.jpg"
     },
     {
       "id": 29,
@@ -230,7 +315,10 @@
       "description": "Luxury electric sedans with long range.",
       "amountRaised": 7600000000,
       "sectorId": 5,
-      "contact": "press@lucidmotors.com"
+      "contact": "press@lucidmotors.com",
+      "firstImage": "https://images.ctfassets.net/5ky6szwjj7ya/og.png/76e59e74ab0f5c82509652869bc4cc8b/og.png",
+      "secondImage": "https://www.logo-voiture.com/wp-content/uploads/2021/01/Lucid-Motors-logo-1500x200-grand.png",
+      "thirdImage": "https://images.ctfassets.net/5ky6szwjj7ya/7AQBztsFIEExsDiIvbBp4j/7ba955fb2a2a5320e2be552409a068cc/lucid-home-tablet-11_2x.webp?q=50"
     },
     {
       "id": 30,
@@ -238,7 +326,10 @@
       "description": "Sustainable battery manufacturing in Europe.",
       "amountRaised": 13000000000,
       "sectorId": 5,
-      "contact": "press@northvolt.com"
+      "contact": "press@northvolt.com",
+      "firstImage": "https://faircobaltalliance.org/app/uploads/2024/01/NV1.png",
+      "secondImage": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Northvolt_Ett_januari_2023.png",
+      "thirdImage": "https://picolio.auto123.com/auto123-media/northvolt-001.jpg?scaledown=450"
     },
     {
       "id": 31,
@@ -246,7 +337,10 @@
       "description": "Global EV and battery manufacturer.",
       "amountRaised": 5000000000,
       "sectorId": 5,
-      "contact": "contact@byd.com"
+      "contact": "contact@byd.com",
+      "firstImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP-t1CC1nDQAmOXK8yGRb1eCwY0UvkvE3GFw&s",
+      "secondImage": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/677/2433677.png",
+      "thirdImage": "https://i.bstr.es/drivingeco/2022/07/byd-china-japon.jpg"
     }
   ],
   "sectors": [
