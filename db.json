@@ -1,54 +1,309 @@
 {
   "startups": [
-    { "id": 1,  "name": "SpaceX",        "description": "Reusable rockets (Falcon, Starship) and global satellite internet (Starlink).", "amountRaised": 9500000000,  "sectorId": 1,        "contact": "contact@spacex.com" },
-    { "id": 2,  "name": "Stripe",        "description": "Online payments platform powering global internet businesses.",                 "amountRaised": 6500000000,  "sectorId": 2,       "contact": "support@stripe.com" },
-    { "id": 3,  "name": "OpenAI",        "description": "AI research and deployment company ensuring AGI benefits all of humanity.",     "amountRaised": 11000000000, "sectorId": 3,        "contact": "info@openai.com" },
-    { "id": 4,  "name": "Airbnb",        "description": "Global marketplace to list, discover, and book accommodations.",                "amountRaised": 6000000000,  "sectorId": 4,        "contact": "press@airbnb.com" },
-    { "id": 5,  "name": "Tesla",         "description": "Electric vehicles and clean energy company accelerating sustainable energy.",   "amountRaised": 20000000000, "sectorId": 5,      "contact": "contact@tesla.com" },
-    { "id": 6,  "name": "Palantir",      "description": "Big data analytics company supporting government, security, and enterprise.",   "amountRaised": 2800000000,  "sectorId": 6,          "contact": "info@palantir.com" },
-    { "id": 7,  "name": "Robinhood",     "description": "Commission-free investing and trading platform.",                               "amountRaised": 5600000000,  "sectorId": 2,       "contact": "support@robinhood.com" },
-    { "id": 8,  "name": "ByteDance",     "description": "Tech company behind TikTok, focused on AI-powered content platforms.",          "amountRaised": 10000000000, "sectorId": 7,      "contact": "contact@bytedance.com" },
-    { "id": 9,  "name": "NVIDIA",        "description": "GPU leader powering gaming, AI, and high-performance computing.",               "amountRaised": 3000000000,  "sectorId": 8,          "contact": "info@nvidia.com" },
-    { "id": 10, "name": "Dropbox",       "description": "Cloud storage and team collaboration platform.",                                "amountRaised": 1700000000,  "sectorId": 9,           "contact": "support@dropbox.com" },
-    { "id": 11, "name": "Spotify",       "description": "Global audio streaming service for music and podcasts.",                        "amountRaised": 2200000000,  "sectorId": 10,         "contact": "press@spotify.com" },
-    { "id": 12, "name": "Instacart",     "description": "On-demand grocery delivery connecting customers and retailers.",                "amountRaised": 2700000000,  "sectorId": 11,      "contact": "support@instacart.com" },
-
-    { "id": 13, "name": "Rocket Lab",       "description": "Small satellite launch services with Electron rocket.",                      "amountRaised": 1200000000,  "sectorId": 1,       "contact": "info@rocketlabusa.com" },
-    { "id": 14, "name": "Relativity Space", "description": "3D-printed rockets for faster and cheaper space access.",                    "amountRaised": 1500000000,  "sectorId": 1,      "contact": "hello@relativityspace.com" },
-    { "id": 15, "name": "Planet Labs",      "description": "Satellite imaging company mapping Earth daily.",                             "amountRaised": 450000000,   "sectorId": 1,          "contact": "contact@planet.com" },
-
-    { "id": 16, "name": "Revolut",          "description": "Global financial super-app for payments and banking.",                      "amountRaised": 2000000000,  "sectorId": 2,      "contact": "press@revolut.com" },
-    { "id": 17, "name": "Wise",             "description": "International money transfers with low fees.",                              "amountRaised": 1100000000,  "sectorId": 2,          "contact": "support@wise.com" },
-    { "id": 18, "name": "Klarna",           "description": "Buy Now Pay Later payments for online shopping.",                           "amountRaised": 3900000000,  "sectorId": 2,      "contact": "press@klarna.com" },
-    { "id": 19, "name": "Coinbase",         "description": "Cryptocurrency exchange and wallet platform.",                              "amountRaised": 540000000,   "sectorId": 2,      "contact": "contact@coinbase.com" },
-
-    { "id": 20, "name": "Anthropic",        "description": "AI safety-focused company building reliable large language models.",         "amountRaised": 8000000000,  "sectorId": 3,       "contact": "info@anthropic.com" },
-    { "id": 21, "name": "Cohere",           "description": "Enterprise-focused NLP models and AI tools.",                               "amountRaised": 445000000,   "sectorId": 3,      "contact": "hello@cohere.com" },
-    { "id": 22, "name": "DeepMind",         "description": "AI research lab known for AlphaFold and reinforcement learning advances.",  "amountRaised": 650000000,   "sectorId": 3,            "contact": "press@deepmind.com" },
-    { "id": 23, "name": "Hugging Face",     "description": "Open-source machine learning models and community hub.",                     "amountRaised": 395000000,   "sectorId": 3,      "contact": "contact@huggingface.co" },
-
-    { "id": 24, "name": "Hopper",           "description": "Mobile-first travel booking with predictive pricing.",                      "amountRaised": 800000000,   "sectorId": 4,         "contact": "press@hopper.com" },
-    { "id": 25, "name": "BlaBlaCar",        "description": "Long-distance ridesharing and bus booking platform.",                       "amountRaised": 600000000,   "sectorId": 4,         "contact": "press@blablacar.com" },
-    { "id": 26, "name": "GetYourGuide",     "description": "Marketplace for activities, tours, and experiences.",                       "amountRaised": 1000000000,  "sectorId": 4,         "contact": "media@getyourguide.com" },
-    { "id": 27, "name": "Booking.com",      "description": "Online booking platform for hotels and travel services.",                   "amountRaised": 900000000,   "sectorId": 4,         "contact": "press@booking.com" },
-
-    { "id": 28, "name": "Rivian",           "description": "Electric pickup trucks and SUVs.",                                          "amountRaised": 10500000000, "sectorId": 5,      "contact": "media@rivian.com" },
-    { "id": 29, "name": "Lucid Motors",     "description": "Luxury electric sedans with long range.",                                  "amountRaised": 7600000000,  "sectorId": 5,          "contact": "press@lucidmotors.com" },
-    { "id": 30, "name": "Northvolt",        "description": "Sustainable battery manufacturing in Europe.",                             "amountRaised": 13000000000, "sectorId": 5,      "contact": "press@northvolt.com" },
-    { "id": 31, "name": "BYD",              "description": "Global EV and battery manufacturer.",                                      "amountRaised": 5000000000,  "sectorId": 5,          "contact": "contact@byd.com" }
+    {
+      "id": 1,
+      "name": "SpaceX",
+      "description": "Reusable rockets (Falcon, Starship) and global satellite internet (Starlink).",
+      "amountRaised": 9500000000,
+      "sectorId": 1,
+      "contact": "contact@spacex.com"
+    },
+    {
+      "id": 2,
+      "name": "Stripe",
+      "description": "Online payments platform powering global internet businesses.",
+      "amountRaised": 6500000000,
+      "sectorId": 2,
+      "contact": "support@stripe.com"
+    },
+    {
+      "id": 3,
+      "name": "OpenAI",
+      "description": "AI research and deployment company ensuring AGI benefits all of humanity.",
+      "amountRaised": 11000000000,
+      "sectorId": 3,
+      "contact": "info@openai.com"
+    },
+    {
+      "id": 4,
+      "name": "Airbnb",
+      "description": "Global marketplace to list, discover, and book accommodations.",
+      "amountRaised": 6000000000,
+      "sectorId": 4,
+      "contact": "press@airbnb.com"
+    },
+    {
+      "id": 5,
+      "name": "Tesla",
+      "description": "Electric vehicles and clean energy company accelerating sustainable energy.",
+      "amountRaised": 20000000000,
+      "sectorId": 5,
+      "contact": "contact@tesla.com"
+    },
+    {
+      "id": 6,
+      "name": "Palantir",
+      "description": "Big data analytics company supporting government, security, and enterprise.",
+      "amountRaised": 2800000000,
+      "sectorId": 6,
+      "contact": "info@palantir.com"
+    },
+    {
+      "id": 7,
+      "name": "Robinhood",
+      "description": "Commission-free investing and trading platform.",
+      "amountRaised": 5600000000,
+      "sectorId": 2,
+      "contact": "support@robinhood.com"
+    },
+    {
+      "id": 8,
+      "name": "ByteDance",
+      "description": "Tech company behind TikTok, focused on AI-powered content platforms.",
+      "amountRaised": 10000000000,
+      "sectorId": 7,
+      "contact": "contact@bytedance.com"
+    },
+    {
+      "id": 9,
+      "name": "NVIDIA",
+      "description": "GPU leader powering gaming, AI, and high-performance computing.",
+      "amountRaised": 3000000000,
+      "sectorId": 8,
+      "contact": "info@nvidia.com"
+    },
+    {
+      "id": 10,
+      "name": "Dropbox",
+      "description": "Cloud storage and team collaboration platform.",
+      "amountRaised": 1700000000,
+      "sectorId": 9,
+      "contact": "support@dropbox.com"
+    },
+    {
+      "id": 11,
+      "name": "Spotify",
+      "description": "Global audio streaming service for music and podcasts.",
+      "amountRaised": 2200000000,
+      "sectorId": 10,
+      "contact": "press@spotify.com"
+    },
+    {
+      "id": 12,
+      "name": "Instacart",
+      "description": "On-demand grocery delivery connecting customers and retailers.",
+      "amountRaised": 2700000000,
+      "sectorId": 11,
+      "contact": "support@instacart.com"
+    },
+    {
+      "id": 13,
+      "name": "Rocket Lab",
+      "description": "Small satellite launch services with Electron rocket.",
+      "amountRaised": 1200000000,
+      "sectorId": 1,
+      "contact": "info@rocketlabusa.com"
+    },
+    {
+      "id": 14,
+      "name": "Relativity Space",
+      "description": "3D-printed rockets for faster and cheaper space access.",
+      "amountRaised": 1500000000,
+      "sectorId": 1,
+      "contact": "hello@relativityspace.com"
+    },
+    {
+      "id": 15,
+      "name": "Planet Labs",
+      "description": "Satellite imaging company mapping Earth daily.",
+      "amountRaised": 450000000,
+      "sectorId": 1,
+      "contact": "contact@planet.com"
+    },
+    {
+      "id": 16,
+      "name": "Revolut",
+      "description": "Global financial super-app for payments and banking.",
+      "amountRaised": 2000000000,
+      "sectorId": 2,
+      "contact": "press@revolut.com"
+    },
+    {
+      "id": 17,
+      "name": "Wise",
+      "description": "International money transfers with low fees.",
+      "amountRaised": 1100000000,
+      "sectorId": 2,
+      "contact": "support@wise.com"
+    },
+    {
+      "id": 18,
+      "name": "Klarna",
+      "description": "Buy Now Pay Later payments for online shopping.",
+      "amountRaised": 3900000000,
+      "sectorId": 2,
+      "contact": "press@klarna.com"
+    },
+    {
+      "id": 19,
+      "name": "Coinbase",
+      "description": "Cryptocurrency exchange and wallet platform.",
+      "amountRaised": 540000000,
+      "sectorId": 2,
+      "contact": "contact@coinbase.com"
+    },
+    {
+      "id": 20,
+      "name": "Anthropic",
+      "description": "AI safety-focused company building reliable large language models.",
+      "amountRaised": 8000000000,
+      "sectorId": 3,
+      "contact": "info@anthropic.com"
+    },
+    {
+      "id": 21,
+      "name": "Cohere",
+      "description": "Enterprise-focused NLP models and AI tools.",
+      "amountRaised": 445000000,
+      "sectorId": 3,
+      "contact": "hello@cohere.com"
+    },
+    {
+      "id": 22,
+      "name": "DeepMind",
+      "description": "AI research lab known for AlphaFold and reinforcement learning advances.",
+      "amountRaised": 650000000,
+      "sectorId": 3,
+      "contact": "press@deepmind.com"
+    },
+    {
+      "id": 23,
+      "name": "Hugging Face",
+      "description": "Open-source machine learning models and community hub.",
+      "amountRaised": 395000000,
+      "sectorId": 3,
+      "contact": "contact@huggingface.co"
+    },
+    {
+      "id": 24,
+      "name": "Hopper",
+      "description": "Mobile-first travel booking with predictive pricing.",
+      "amountRaised": 800000000,
+      "sectorId": 4,
+      "contact": "press@hopper.com"
+    },
+    {
+      "id": 25,
+      "name": "BlaBlaCar",
+      "description": "Long-distance ridesharing and bus booking platform.",
+      "amountRaised": 600000000,
+      "sectorId": 4,
+      "contact": "press@blablacar.com"
+    },
+    {
+      "id": 26,
+      "name": "GetYourGuide",
+      "description": "Marketplace for activities, tours, and experiences.",
+      "amountRaised": 1000000000,
+      "sectorId": 4,
+      "contact": "media@getyourguide.com"
+    },
+    {
+      "id": 27,
+      "name": "Booking.com",
+      "description": "Online booking platform for hotels and travel services.",
+      "amountRaised": 900000000,
+      "sectorId": 4,
+      "contact": "press@booking.com"
+    },
+    {
+      "id": 28,
+      "name": "Rivian",
+      "description": "Electric pickup trucks and SUVs.",
+      "amountRaised": 10500000000,
+      "sectorId": 5,
+      "contact": "media@rivian.com"
+    },
+    {
+      "id": 29,
+      "name": "Lucid Motors",
+      "description": "Luxury electric sedans with long range.",
+      "amountRaised": 7600000000,
+      "sectorId": 5,
+      "contact": "press@lucidmotors.com"
+    },
+    {
+      "id": 30,
+      "name": "Northvolt",
+      "description": "Sustainable battery manufacturing in Europe.",
+      "amountRaised": 13000000000,
+      "sectorId": 5,
+      "contact": "press@northvolt.com"
+    },
+    {
+      "id": 31,
+      "name": "BYD",
+      "description": "Global EV and battery manufacturer.",
+      "amountRaised": 5000000000,
+      "sectorId": 5,
+      "contact": "contact@byd.com"
+    }
   ],
-
   "sectors": [
-    { "id": 1,  "name": "Aerospace & Satellites",       "slug": "aerospace-satellites" },
-    { "id": 2,  "name": "FinTech",                      "slug": "fintech" },
-    { "id": 3,  "name": "Artificial Intelligence",      "slug": "ai" },
-    { "id": 4,  "name": "Travel & Hospitality",         "slug": "travel-hospitality" },
-    { "id": 5,  "name": "Automotive & Clean Energy",    "slug": "automotive-clean-energy" },
-    { "id": 6,  "name": "Big Data & Analytics",         "slug": "big-data-analytics" },
-    { "id": 7,  "name": "Social Media & Content",       "slug": "social-media-content" },
-    { "id": 8,  "name": "Semiconductors & AI Hardware", "slug": "semiconductors-ai-hardware" },
-    { "id": 9,  "name": "Cloud & Collaboration",        "slug": "cloud-collaboration" },
-    { "id": 10, "name": "Music & Entertainment",        "slug": "music-entertainment" },
-    { "id": 11, "name": "E-commerce & Delivery",        "slug": "ecommerce-delivery" }
+    {
+      "id": 1,
+      "name": "Aerospace & Satellites",
+      "slug": "aerospace-satellites"
+    },
+    {
+      "id": 2,
+      "name": "FinTech",
+      "slug": "fintech"
+    },
+    {
+      "id": 3,
+      "name": "Artificial Intelligence",
+      "slug": "ai"
+    },
+    {
+      "id": 4,
+      "name": "Travel & Hospitality",
+      "slug": "travel-hospitality"
+    },
+    {
+      "id": 5,
+      "name": "Automotive & Clean Energy",
+      "slug": "automotive-clean-energy"
+    },
+    {
+      "id": 6,
+      "name": "Big Data & Analytics",
+      "slug": "big-data-analytics"
+    },
+    {
+      "id": 7,
+      "name": "Social Media & Content",
+      "slug": "social-media-content"
+    },
+    {
+      "id": 8,
+      "name": "Semiconductors & AI Hardware",
+      "slug": "semiconductors-ai-hardware"
+    },
+    {
+      "id": 9,
+      "name": "Cloud & Collaboration",
+      "slug": "cloud-collaboration"
+    },
+    {
+      "id": 10,
+      "name": "Music & Entertainment",
+      "slug": "music-entertainment"
+    },
+    {
+      "id": 11,
+      "name": "E-commerce & Delivery",
+      "slug": "ecommerce-delivery"
+    }
   ]
 }
