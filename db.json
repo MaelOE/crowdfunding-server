@@ -9,7 +9,7 @@
       "contact": "contact@spacex.com",
       "firstImage": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NXx8fGVufDB8fHx8fA%3D%3D",
       "secondImage": "https://www.francebleu.fr/pikapi/images/1d6ba1c9-414f-47b8-8c71-51c671380bda/1200x680?webp=false",
-      "thirdImage": "https://www.usine-digitale.fr/mediatheque/4/3/5/000887534_1200x800_c.jpg"
+      "thirdImage": "https://www.greendrive-accessories.com/blog/wp-content/uploads/2024/03/SpaceX-Starship-Revolutionizing-Space-Travel.jpeg"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "amountRaised": 6500000000,
       "sectorId": 2,
       "contact": "support@stripe.com",
-      "likes": 28,
+      "likes": 43,
       "firstImage": "https://stripe.com/img/v3/home/social.png",
       "secondImage": "https://directpaynet.com/wp-content/uploads/2023/10/Depositphotos_691399764_s-2019.jpg",
       "thirdImage": "https://logo-marque.com/wp-content/uploads/2021/03/Stripe-Embleme.jpg"
@@ -87,7 +87,8 @@
       "contact": "contact@bytedance.com",
       "firstImage": "https://f.hellowork.com/blogdumoderateur/2019/07/ByteDance-1.jpg",
       "secondImage": "https://upload.wikimedia.org/wikipedia/commons/8/80/ByteDance_1733_Commercial_Space_(20240731145554).jpg",
-      "thirdImage": "https://www.solutions-numeriques.com/wp-content/uploads/2020/08/tiktok.png"
+      "thirdImage": "https://www.solutions-numeriques.com/wp-content/uploads/2020/08/tiktok.png",
+      "likes": 3
     },
     {
       "id": 9,
