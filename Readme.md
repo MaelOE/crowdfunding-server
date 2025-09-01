@@ -50,7 +50,7 @@ This repository is a [json-server](https://github.com/MaelOE/crowdfunding-server
 
 ## Links
 
-### Collaborators
+### Collaborator
 
 [MaelOE](https://github.com/MaelOE)
 
@@ -61,7 +61,3 @@ This repository is a [json-server](https://github.com/MaelOE/crowdfunding-server
 [Repository Link Server](https://github.com/MaelOE/crowdfunding-server)
 
 [Deploy Link](https://crowdfunding-server-32r5.onrender.com)
-
-### Slides
-
-[Slides Link](https://gamma.app/docs/Venture-Club-usll4gc2jo1stq3)
